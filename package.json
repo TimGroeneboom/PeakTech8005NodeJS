@@ -1,0 +1,22 @@
+{
+  "name": "peaktech8005nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serial_read.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimGroeneboom/PeakTech8005NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimGroeneboom/PeakTech8005NodeJS/issues"
+  },
+  "homepage": "https://github.com/TimGroeneboom/PeakTech8005NodeJS#readme",
+  "dependencies": {
+    "serialport": "^7.1.4"
+  }
+}
