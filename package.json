@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/TimGroeneboom/PeakTech8005NodeJS#readme",
   "dependencies": {
+    "keypress": "^0.2.1",
     "serialport": "^7.1.4"
   }
 }
